@@ -3,7 +3,8 @@
 
 -  I’m passionate about **Full Stack Development** & **Cybersecurity**  
 -  Currently learning: **Spring Boot, MongoDB, and GitHub Actions**  
--  Fun Fact: I once debugged a 50-line error just by adding a semicolon 😉  
+-  Fun Fact: I once debugged a 50-line error just by adding a semicolon 
+-  i have an project partner 
 
 ---
 
